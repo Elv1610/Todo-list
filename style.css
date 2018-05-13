@@ -1,0 +1,30 @@
+html {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+body {
+background: #43cea2;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #185a9d, #43cea2);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #185a9d, #43cea2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+span {
+  display: inline-block;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300 !important;
+  font-size: 26px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.container {
+  margin-top: 100px;
+}
